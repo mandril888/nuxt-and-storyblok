@@ -35,8 +35,8 @@
           <li>
             <nuxt-link
               class="text-teal-600 hover:underline"
-              to="/de">
-              German
+              to="/es">
+              Spanish
             </nuxt-link>
           </li>
         </ul>
