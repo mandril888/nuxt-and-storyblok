@@ -19,7 +19,8 @@
 export default {
   data () {
     return {
-      stories: []
+      stories: [],
+      articles: null
     }
   },
   asyncData (context) {
